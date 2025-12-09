@@ -1,0 +1,9 @@
+{
+  "name": "GenJiv Wildlife 1123",
+  "description": "An immersive educational platform combining wildlife conservation awareness with AI-powered interactive experiences for children.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
